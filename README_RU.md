@@ -50,6 +50,7 @@ python3 main_ru.py
 <img width="264" height="552" alt="Screenshot_91" src="https://github.com/user-attachments/assets/e20d1ad9-f6d4-415d-890d-04d2553ffd86" />
 <img width="256" height="474" alt="Screenshot_92" src="https://github.com/user-attachments/assets/db3d130e-69b8-4cf2-9a69-88f6d9ec0307" />
 
+
 Структура проекта
 main_ru.py — основной файл игры (содержит все классы и логику)
 Dot — класс точки (координаты)
