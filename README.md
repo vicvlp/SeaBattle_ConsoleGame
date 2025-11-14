@@ -20,10 +20,13 @@ Python 3.7+
 Terminal that supports Unicode for correct symbol rendering.
 
 Installation and running
+
 Clone the repository:
+
 git clone https://github.com/vicvlp/SeaBattle_ConsoleGame/
 
 Change into project folder:
+
 cd SeaBattle_ConsoleGame
 
 Run the game:
