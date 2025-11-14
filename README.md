@@ -47,7 +47,10 @@ Board symbols:
 
 Example session
 
-<img width="256" height="474" alt="Screenshot_92" src="https://github.com/user-attachments/assets/f17c5e44-0e0d-4d64-aa9c-fcaddb9d4ac6" />
+
+<img width="262" height="563" alt="Screenshot_93" src="https://github.com/user-attachments/assets/39b4447f-3661-4a23-8eb5-9059147b6f0f" />
+<img width="261" height="479" alt="Screenshot_94" src="https://github.com/user-attachments/assets/07b8e37a-89dd-4282-b723-804ba5f8fd4e" />
+
 
 
 Project structure
