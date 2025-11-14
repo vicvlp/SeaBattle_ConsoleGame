@@ -25,10 +25,10 @@ git clone https://github.com/vicvlp/SeaBattle_ConsoleGame/
 cd SeaBattle_ConsoleGame/
 
 Запустите игру:
-python main.py
+python main_rus.py
 
 Если у вас несколько версий Python:
-python3 main.py
+python3 main_rus.py
 
 Правила игры и управление
 Формат ввода координат: x y
