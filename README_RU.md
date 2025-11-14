@@ -25,10 +25,10 @@ git clone https://github.com/vicvlp/SeaBattle_ConsoleGame/
 cd SeaBattle_ConsoleGame/
 
 Запустите игру:
-python main_rus.py
+python main_ru.py
 
 Если у вас несколько версий Python:
-python3 main_rus.py
+python3 main_ru.py
 
 Правила игры и управление
 Формат ввода координат: x y
@@ -48,7 +48,7 @@ python3 main_rus.py
 <img width="256" height="474" alt="Screenshot_92" src="https://github.com/user-attachments/assets/db3d130e-69b8-4cf2-9a69-88f6d9ec0307" />
 
 Структура проекта
-main.py — основной файл игры (содержит все классы и логику)
+main_ru.py — основной файл игры (содержит все классы и логику)
 Dot — класс точки (координаты)
 Ship — класс корабля (длина, ориентация, точки)
 Board — игровая доска (размещение кораблей, обработка выстрелов)
